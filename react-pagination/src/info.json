@@ -1,0 +1,14 @@
+[
+  { "country": "Brazil", "city": "Brasilia" },
+  { "country": "USA", "city": "Washington, DC" },
+  { "country": "France", "city": "Paris" },
+  { "country": "Japan", "city": "Tokyo" },
+  { "country": "Germany", "city": "Berlin" },
+  { "country": "Canada", "city": "Toronto" },
+  { "country": "Australia", "city": "Sydney" },
+  { "country": "India", "city": "Mumbai" },
+  { "country": "China", "city": "Shanghai" },
+  { "country": "Mexico", "city": "Mexico City" },
+  { "country": "Paraguay", "city": "Assuncion" },
+  { "country": "Argentina", "city": "Buenos Aires" }
+]
